@@ -120,12 +120,12 @@ Dataset Limpio
 
 ## Archivos del Proyecto
 
-### 🔹 Datos
+### Datos
 - [Dataset original](data/ventas_oc.csv)  
 - [Dataset limpio](data/ventas_oc_limpia.csv)
 - [Excel](data/Compras_Proveedores.xlsx)
 
-### 🔹 Visualizaciones
+### Visualizaciones
 - `images/costo_proveedor.png`  
 - `images/fechas_linea.png`  
 - `images/estados_circular.png`
