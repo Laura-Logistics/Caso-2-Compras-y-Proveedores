@@ -82,13 +82,16 @@ Dataset Limpio
 
 ## Visualizaciones
 
-- **Costo total por proveedor** → Columnas  
+- **Costo total por proveedor**
+
   ![Costo Total por Proveedor](images/costo_proveedor.png)
 
-- **Fecha de pedido vs Fecha de entrega** → Línea  
+- **Fecha de pedido vs Fecha de entrega**
+    
   ![Fechas Pedido vs Entrega](images/fechas_linea.png)
 
-- **Distribución de estados de órdenes** → Circular  
+- **Distribución de estados de órdenes**
+    
   ![Estados de Órdenes](images/estados_circular.png)
 
 > Estas visualizaciones permiten identificar rápidamente proveedores más relevantes, eficiencia de entrega y proporción de estados de órdenes.
