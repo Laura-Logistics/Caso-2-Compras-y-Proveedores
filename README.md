@@ -1,9 +1,9 @@
-# 📊 Caso 2 – Análisis de Órdenes de Compra
+# Caso 2 – Análisis de Órdenes de Compra
 Proyecto aplicado a Logística, Operaciones y Análisis de Datos.
 
 ---
 
-## 📑 Índice
+## Índice
 
 1. [Objetivo del Caso](#objetivo-del-caso)
 2. [Dataset](#dataset)
@@ -15,7 +15,7 @@ Proyecto aplicado a Logística, Operaciones y Análisis de Datos.
 
 ---
 
-## 🎯 Objetivo del Caso
+## Objetivo del Caso
 
 Analizar el desempeño de proveedores, categorías de productos y estados de órdenes de compra en un pequeño dataset, permitiendo:
 
@@ -27,7 +27,7 @@ Roles relacionados: Analista de Logística / Inventarios, Operaciones, Abastecim
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 Dataset original de 4 órdenes de compra:
 
@@ -51,7 +51,7 @@ Dataset Limpio
 
 ---
 
-## 📊 Tablas Dinámicas
+## Tablas Dinámicas
 
 **1. Costo total por proveedor** (solo Entregado y Retrasado)
 
@@ -80,7 +80,7 @@ Dataset Limpio
 
 ---
 
-## 📈 Visualizaciones
+## Visualizaciones
 
 - **Costo total por proveedor** → Columnas  
   ![Costo Total por Proveedor](images/costo_proveedor.png)
@@ -95,7 +95,7 @@ Dataset Limpio
 
 ---
 
-## 📌 Conclusiones
+## Conclusiones
 
 1. El proveedor con mayor inversión es **Proveedor XYZ** (4000).  
 2. Se registraron **2 órdenes entregadas, 1 retrasada y 1 cancelada**, permitiendo priorizar seguimiento operativo.  
@@ -105,7 +105,7 @@ Dataset Limpio
 
 ---
 
-## 🛠 Herramientas Utilizadas
+## Herramientas Utilizadas
 
 - Excel Online  
 - Tablas dinámicas  
@@ -115,7 +115,7 @@ Dataset Limpio
 
 ---
 
-## 📂 Archivos del Proyecto
+## Archivos del Proyecto
 
 ### 🔹 Datos
 - [Dataset original](data/ventas_oc.csv)  
