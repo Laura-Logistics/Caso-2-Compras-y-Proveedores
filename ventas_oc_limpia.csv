@@ -1,0 +1,7 @@
+﻿OC_ID;Fecha_OC;Proveedor;Producto;Categoria;Cantidad;Costo_Unit;Fecha_Entrega;Estado;Costo total
+OC001;02/01/2024;Proveedor ABC;Mouse USB;Periféricos;100;10;06/01/2024;Entregado;1000
+OC002;03/01/2024;Proveedor ABC;Teclado;Periféricos;50;15;10/01/2024;Retrasado;750
+OC003;05/01/2024;Proveedor XYZ;"Monitor 24""";Monitores;20;200;12/01/2024;Entregado;4000
+OC004;06/01/2024;Proveedor 123;Laptop;Computo;10;700;20/01/2024;Cancelado;7000
+;;;;;;;;;
+;;;;;;;;;
