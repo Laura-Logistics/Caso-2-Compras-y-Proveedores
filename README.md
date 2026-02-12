@@ -112,7 +112,8 @@ Dataset original de 4 órdenes de compra:
 
 ### 🔹 Datos
 - [Dataset original](data/ventas_oc.csv)  
-- [Dataset limpio](data/ventas_oc_limpia.csv)  
+- [Dataset limpio](data/ventas_oc_limpia.csv)
+- [Excel](data/Caso 2 Análisis de Compras y Proveedores.xlsx)
 
 ### 🔹 Visualizaciones
 - `images/costo_proveedor.png`  
