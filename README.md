@@ -31,7 +31,12 @@ Roles relacionados: Analista de Logística / Inventarios, Operaciones, Abastecim
 
 Dataset original de 4 órdenes de compra:
 
-
+| OC_ID | Fecha_OC | Proveedor | Producto | Categoria | Cantidad | Costo_Unit | Fecha_Entrega | Estado |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| OC001 | 02/01/2024 | Proveedor ABC | Mouse USB | Periféricos | 100 | 10 | 06/01/2024 | Entregado |
+| OC002 | 03/01/2024 | proveedor abc | Teclado | Periféricos | 50 | 15 | 10/01/2024 | Retrasado |
+| OC003 | 05/01/2024 | Proveedor XYZ | Monitor 24" | Monitores | 20 | 200 | 12/01/2024 | Entregado |
+| OC004 | 06/01/2024 | Proveedor 123 | Laptop | Computo | 10 | 700 | 20/01/2024 | Cancelado |
 
 | OC_ID | Fecha_OC   | Proveedor      | Producto     | Categoria   | Cantidad | Costo_Unit | Fecha_Entrega | Estado      | Costo total |
 |-------|------------|----------------|------------|------------|----------|------------|---------------|------------|------------|
