@@ -14,7 +14,7 @@ Proyecto aplicado a Logística, Operaciones y Análisis de Datos.
 7. [Archivos del Proyecto](#archivos-del-proyecto)
 
 ---
-
+<a id="objetivo-del-caso"></a>
 ## Objetivo del Caso
 
 Analizar el desempeño de proveedores, categorías de productos y estados de órdenes de compra en un pequeño dataset, permitiendo:
@@ -26,7 +26,7 @@ Analizar el desempeño de proveedores, categorías de productos y estados de ór
 Roles relacionados: Analista de Logística / Inventarios, Operaciones, Abastecimiento, Datos/E-commerce.
 
 ---
-
+<a id="dataset"></a>
 ## Dataset
 
 Dataset original de 4 órdenes de compra:
@@ -50,7 +50,7 @@ Dataset Limpio
 > La columna `Costo total` se calculó como `Cantidad × Costo_Unit`.
 
 ---
-
+<a id="tablas-dinamicas"></a>
 ## Tablas Dinámicas
 
 **1. Costo total por proveedor** (solo Entregado y Retrasado)
@@ -79,7 +79,7 @@ Dataset Limpio
 | **Total**  | 5750       |
 
 ---
-
+<a id="visualizaciones"></a>
 ## Visualizaciones
 
 - **Costo total por proveedor**
@@ -97,7 +97,7 @@ Dataset Limpio
 > Estas visualizaciones permiten identificar rápidamente proveedores más relevantes, eficiencia de entrega y proporción de estados de órdenes.
 
 ---
-
+<a id="conclusiones"></a>
 ## Conclusiones
 
 1. El proveedor con mayor inversión es **Proveedor XYZ** (4000).  
@@ -107,7 +107,7 @@ Dataset Limpio
 5. Filtrar por estado de orden es clave para reportes financieros y operativos.
 
 ---
-
+<a id="herramientas-utilizadas"></a>
 ## Herramientas Utilizadas
 
 - Excel Online  
@@ -117,7 +117,7 @@ Dataset Limpio
 - Gráficos dinámicos (columnas, líneas, circulares)
 
 ---
-
+<a id="archivos-del-proyecto"></a>
 ## Archivos del Proyecto
 
 ### Datos
